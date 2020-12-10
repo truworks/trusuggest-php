@@ -1,0 +1,7 @@
+{
+    "name": "truworks/trusuggest-php",
+    "description": "A PHP library to interact with trusuggest apis",
+    "require": {
+        "php": ">=5.6"
+    }
+}
